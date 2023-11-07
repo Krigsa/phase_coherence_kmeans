@@ -1,2 +1,2 @@
-# phase_coherence_kmeans
-Github repository containing the codes used for our publication
+# Phase coherence Kmeans
+## Github repository for our publication[X]
