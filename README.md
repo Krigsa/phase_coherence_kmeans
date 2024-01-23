@@ -1,6 +1,6 @@
 # Phase coherence Kmeans
 ## Github repository for [this](https://doi.org/10.1101/2023.12.19.572402) publication
-### In case the link doesn't work: P.CASTRO et al, 2023, Biorxiv, https://doi.org/10.1101/2023.12.19.572402
+#### (In case the link doesn't work: P.CASTRO et al, 2023, Biorxiv, https://doi.org/10.1101/2023.12.19.572402)
 
 
 ## Overview
