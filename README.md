@@ -1,9 +1,4 @@
 # Phase coherence Kmeans
-## Credits
-### Pablo CASTRO main contributor to the code
-### Supervised by Rodrigo COFRE and Alain DESTEXHE
-### Rodrigo COFRE main contributor to the article
-#### Authors and co-authors: Pablo Castro, Andrea Luppi, Enzo Tagliazucchi, Yonatan S-Perl, Lorina Naci, Adrian M. Owen, Jacobo D. Sitt, Alain Destexhe, Rodrigo Cofré
 ## Github repository for [this](https://doi.org/10.1101/2023.12.19.572402) publication
 #### (In case the link doesn't work: P.CASTRO et al, 2023, Biorxiv, https://doi.org/10.1101/2023.12.19.572402)
 
@@ -19,4 +14,8 @@ We finally extended our analysis by considering the Markov assumption (memoryles
 We prepared a dummy timeserie to illustrate the functionalities of our study, we invite fellow researchers to try using their data with multiple conditions to perform comparisons.
 
 
-
+## Credits
+### Pablo CASTRO main contributor to the code
+### Supervised by Rodrigo COFRE and Alain DESTEXHE
+### Rodrigo COFRE main contributor to the article
+#### Authors and co-authors of the article: Pablo Castro, Andrea Luppi, Enzo Tagliazucchi, Yonatan S-Perl, Lorina Naci, Adrian M. Owen, Jacobo D. Sitt, Alain Destexhe, Rodrigo Cofré
