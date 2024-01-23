@@ -1,4 +1,5 @@
 # Phase coherence Kmeans
+#### Pablo Castro, Andrea Luppi, Enzo Tagliazucchi, Yonatan S-Perl, Lorina Naci, Adrian M. Owen, Jacobo D. Sitt, Alain Destexhe, Rodrigo Cofré
 ## Github repository for [this](https://doi.org/10.1101/2023.12.19.572402) publication
 #### (In case the link doesn't work: P.CASTRO et al, 2023, Biorxiv, https://doi.org/10.1101/2023.12.19.572402)
 
