@@ -16,6 +16,5 @@ We prepared a dummy timeserie to illustrate the functionalities of our study, we
 
 ## Credits
 ### Pablo CASTRO main contributor to the code
-### Supervised by Rodrigo COFRE and Alain DESTEXHE
-### Rodrigo COFRE main contributor to the article
+### Supervised by Rodrigo COFRE
 #### Authors and co-authors of the article: Pablo Castro, Andrea Luppi, Enzo Tagliazucchi, Yonatan S-Perl, Lorina Naci, Adrian M. Owen, Jacobo D. Sitt, Alain Destexhe, Rodrigo Cofré
