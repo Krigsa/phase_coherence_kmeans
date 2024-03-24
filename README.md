@@ -11,7 +11,7 @@ Next, we analyzed how the frequencies of occurrences of the obtained stereotypic
 We finally extended our analysis by considering the Markov assumption (memoryless stochastic process) to construct a Markov chain linking together the obtained 'cliché' brain states. This allowed us to show preferential state transitions depending on the condition, as well as a reduction of the entropy under unconscious states when compared to wakeful ones.  
 
 ### Loading data
-We prepared a dummy timeserie to illustrate the functionalities of our study, we invite fellow researchers to try using their data with multiple conditions to perform comparisons.
+We prepared a dummy timeserie to illustrate the functionalities of the present code, we invite fellow researchers to try using their data with multiple conditions to perform comparisons.
 
 
 ## Credits
