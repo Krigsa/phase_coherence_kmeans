@@ -1,6 +1,7 @@
 # Phase coherence Kmeans
-## Github repository for [this](https://doi.org/10.1101/2023.12.19.572402) publication
-#### (In case the link doesn't work: P.CASTRO et al, 2023, Biorxiv, https://doi.org/10.1101/2023.12.19.572402)
+## Github repository for the following publications:
+#### [Castro, Luppi, & Tagliazucchi et al, 2023, Nature Communication Biology](https://doi.org/10.1101/2023.12.19.572402)
+#### [Hoffner, & Castro et al, 2024 eLife](https://doi.org/10.7554/eLife.101688.2)
 
 
 ## Overview
@@ -19,3 +20,4 @@ We prepared a dummy timeserie to illustrate the functionalities of the present c
 ### Supervised by Rodrigo COFRE & Alain DESTEXHE, and Béchir JARRAYA
 #### Authors and co-authors of the articles
 ##### [Pablo Castro, Andrea Luppi, Enzo Tagliazucchi, Yonatan S-Perl, Lorina Naci, Adrian M. Owen, Jacobo D. Sitt, Alain Destexhe, Rodrigo Cofré](https://doi.org/10.1101/2023.12.19.572402) 
+##### [Guylaine Hoffner, Pablo Castro, Lynn Uhrig, Camilo M Signorelli, Morgan Dupont, Jordy Tasserie, Alain Destexhe, Rodrigo Cofre, Jacobo Sitt, Bechir Jarraya](https://doi.org/10.7554/eLife.101688.2)
