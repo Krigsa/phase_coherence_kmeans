@@ -1,6 +1,6 @@
 # Phase coherence Kmeans
 ## Github repository for the following publications:
-#### [Castro, Luppi, & Tagliazucchi et al, 2023, Nature Communication Biology](https://doi.org/10.1101/2023.12.19.572402)
+#### [Castro, Luppi, & Tagliazucchi et al, 2023, Nature Communication Biology](https://www.nature.com/articles/s42003-024-06858-3)
 #### [Hoffner, & Castro et al, 2024 eLife](https://doi.org/10.7554/eLife.101688.2)
 
 
